@@ -1,0 +1,31 @@
+/*styles/main.css*/
+
+body {
+	background: rgb(180, 100, 205);
+	
+font-family: 'Pacifico', cursive;
+}
+
+h1 {
+	color:white; font-size: 40px
+}
+ol {
+	color:white; font-weight: bold;
+}
+a{
+	text-decoration: none;
+}
+#dime { 
+    background: rgb(85, 108, 237);
+   color: white;
+	margin: 10px 10px 10px 10px; 
+}
+#time {
+    color: white;
+    border-style: solid;
+    }
+
+
+
+
+	
